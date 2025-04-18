@@ -1,9 +1,13 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"PHYSML":
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"PHYS":
+  color: "#18690f"
+  # url: https://journals.aps.org/
 
-"Vision":
+"ECONML":
   color: "#009f36"
+
+"ML":
+  color: "#00369f"
+  # url: https://aapt.scitation.org/journal/ajp
