@@ -1,16 +1,16 @@
-"PHYSML":
-  color: "#18690f"
-  # color: "#00369f"
+AI:
+  color: "#048ba8"
 
-"PHYS":
-  color: "#18690f"
-  # url: https://journals.aps.org/
+AI4Science:
+  color: "#a8a432"
 
-"ECONML":
-  color: "#18690f"
-  # color: "#009f36"
+Physics:
+  color: "#849469"
 
-"ML":
-  color: "#18690f"
+
+AI4Econ:
+  color: "#d64933"
+
+# "JMLR":
   # color: "#00369f"
   # url: https://aapt.scitation.org/journal/ajp
