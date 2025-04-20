@@ -174,7 +174,7 @@ kramdown:
 include: ["_pages"]
 exclude:
   - _pages/cv.md
-  - _pages/talks.md
+  # - _pages/talks.md
   - _pages/projects.md
   - bin/
   - CONTRIBUTING.md
