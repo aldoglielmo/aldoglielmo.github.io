@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, <a href='https://www.bankit.art/people/aldo-glielmo/index.html'>Applied Research Team</a>, Directorate General for IT, Banca d'Italia.
+subtitle: 
+  Hi!
+  I am Aldo and I am a research scientist in the <a href='https://www.bankit.art/people/aldo-glielmo/index.html'>Applied Research Team</a>, a research unit within the Directorate General for IT of the Bank of Italy. 
+  # I am interested in research on the development of AI (more specifically ML) tools for multi disciplinary applications.
 
 profile:
   align: right
