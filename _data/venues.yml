@@ -1,15 +1,20 @@
-AI:
+AI/ML:
   color: "#048ba8"
 
-AI4Science:
+AI/ML for Science:
   color: "#a8a432"
 
 Physics:
   color: "#849469"
 
 
-AI4Econ:
+AI/ML for Econ:
   color: "#d64933"
+
+# @string{PHYS = {Physics}}
+# @string{PHYSML = {AI/ML for Science}}
+# @string{ML = {AI/ML}}
+# @string{ECONML = {AI/ML for Econ}}
 
 # "JMLR":
   # color: "#00369f"

@@ -14,3 +14,11 @@ nav_order: 5
 {% bibliography -f talks %}
 
 </div>
+
+<div class="publications">
+
+<h1 id="lectures">teaching experience</h1>
+
+{% bibliography -f lectures %}
+
+</div>
