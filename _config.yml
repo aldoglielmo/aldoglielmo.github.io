@@ -50,7 +50,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: false
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 # posts_in_search: true
@@ -175,7 +175,6 @@ kramdown:
 include: ["_pages"]
 exclude:
   - _pages/cv.md
-  # - _pages/talks.md
   - _pages/projects.md
   - bin/
   - CONTRIBUTING.md
@@ -359,9 +358,9 @@ external_links:
 imagemagick:
   enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
-    - 250 #240 #480
-    - 400 #400 #800
-    - 700 #700 #1400
+    - 480 #240 #480
+    - 800 #400 #800
+    - 1400 #700 #1400
   input_directories:
     - assets/img/
   input_formats:

@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: code
 description: 
-  # Description of the repos
+  You can find the open-source projects I am involved with also on my <a href='https://github.com/aldoglielmo'>GitHub page</a>
 nav: true
 nav_order: 4
 ---
