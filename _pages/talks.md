@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+{% include bib_search.liquid %}
+
 <div class="publications">
 
 <h1 id="talks">talks</h1>

@@ -3,10 +3,12 @@ layout: page
 permalink: /repositories/
 title: code
 description: 
-  You can find the open-source projects I am involved with also on my <a href='https://github.com/aldoglielmo'>GitHub page</a>
+  # You can find the open-source projects I am involved with also on my <a href='https://github.com/aldoglielmo'>GitHub page</a>
 nav: true
 nav_order: 4
 ---
+
+You can find the open-source projects I am involved with also on my <a href='https://github.com/aldoglielmo'>GitHub page</a>
 
 <!-- {% if site.data.repositories.github_users %} -->
 
