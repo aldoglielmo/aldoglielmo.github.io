@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - bancaditalia/BeforeIT.jl
   - sissa-data-science/DADApy
   - bancaditalia/black-it
-  - bancaditalia/BeforeIT.jl
   - bancaditalia/ABCredit.jl

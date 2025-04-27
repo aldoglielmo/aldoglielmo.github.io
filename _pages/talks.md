@@ -2,10 +2,13 @@
 layout: page
 permalink: /talks/
 title: talks
-description: A list of talks given.
+description: 
+    # A list of talks given.
 nav: true
 nav_order: 5
 ---
+
+A list of seminars and lectures given.
 
 {% include bib_search.liquid %}
 
@@ -19,7 +22,7 @@ nav_order: 5
 
 <div class="publications">
 
-<h1 id="lectures">teaching experience</h1>
+<h1 id="lectures">lectures</h1>
 
 {% bibliography -f lectures %}
 

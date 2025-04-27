@@ -8,7 +8,7 @@ nav: true
 nav_order: 4
 ---
 
-You can find the open-source projects I am involved with also on my <a href='https://github.com/aldoglielmo'>GitHub page</a>
+A list of the open-source projects for which I am, or I have been, a lead developer. You can find more on my <a href='https://github.com/aldoglielmo'>GitHub page</a>.
 
 <!-- {% if site.data.repositories.github_users %} -->
 
@@ -40,7 +40,6 @@ You can find the open-source projects I am involved with also on my <a href='htt
 
 {% if site.data.repositories.github_repos %} -->
 
-## GitHub Repositories
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}

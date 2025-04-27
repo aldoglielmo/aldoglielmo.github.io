@@ -9,7 +9,27 @@ nav: true
 nav_order: 2
 ---
 
-You can find an up-to-date list of publications also on my <a href='https://scholar.google.com/citations?user=ux0SMq4AAAAJ&hl=en'>Google Scholar page</a>
+A list of publications, broadly cathegorised in three groups "ML/AI for Science", "ML/AI" and "ML/AI for Econ".
+A similar list is also available on my <a href='https://scholar.google.com/citations?user=ux0SMq4AAAAJ&hl=en'>Google Scholar page</a>.
+
+
+<!-- 
+NEED DO FIGURE OUT HOW TO INTRODUCE BADGES HERE !!!
+AAA 
+
+<span class="badge font-weight-bold default-color-dark text-uppercase align-middle" style="min-width: 75px">
+    {{- "content.year" -}}
+</span> 
+
+<span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+    {{- "content.year" -}}
+</span> 
+
+<span class="badge font-weight-bold unique-color text-uppercase align-middle" style="min-width: 75px">
+    {{- "content.year" -}}
+</span> 
+
+BBB -->
 
 <!-- _pages/publications.md -->
 
