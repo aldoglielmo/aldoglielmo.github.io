@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /code/
 title: code
 description: 
   # You can find the open-source projects I am involved with also on my <a href='https://github.com/aldoglielmo'>GitHub page</a>
