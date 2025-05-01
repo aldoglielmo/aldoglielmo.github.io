@@ -38,11 +38,11 @@ nav_order: 6
 
 ### recognitions
 
-**publications** - "Agent based modelling at central banks" is featured on the front page of the central banking journal.
+**publications** - "Agent based modelling at central banks" is featured on the [front page](https://web.archive.org/web/20250328125306/https://www.centralbanking.com/) of the Central Banking magazine.
 
-**software** - "DADApy" is included in a "best-of" list as the best unsupervised learning package for use in physics (2023).
+**software** - "DADApy" is included in a "best-of" list as the [best unsupervised learning package](https://github.com/JuDFTteam/best-of-atomistic-machine-learning?tab=readme-ov-file#unsupervised-learning) for use in physics (2023).
 
-**research prizes** - MARW AAAI best paper award (2025), Elsevier outstanding PhD thesis prize (2020), [Italy made me award](https://www.giornalediplomatico.it/Ambasciata-a-Londra-5A-Premio-aItaly-Made-Mea-a-sei-scienziati-italiani-per-le-loro-ricerche.htm) (2019), [IoP PhD thesis prize](https://www.iop.org/physics-community/special-interest-groups/computational-physics-group/phd-thesis-prize) (2019), PRB editor's pick (2018).
+**research prizes** - MARW AAAI best paper award (2025), Elsevier outstanding PhD thesis prize (2020), [Italy made me award](https://www.giornalediplomatico.it/Ambasciata-a-Londra-5A-Premio-aItaly-Made-Mea-a-sei-scienziati-italiani-per-le-loro-ricerche.htm) (2019), [IoP PhD thesis prize](https://www.iop.org/physics-community/special-interest-groups/computational-physics-group/phd-thesis-prize) (2019), PRB Editors’ Suggestions (2018).
 
 **student prizes** - Runner up for TYC best talk (2018), CNR scholarship (2016), Nelkon prize (2014), Wheatstone prize (2014), Nikon prize (2014), Gordon Rogers scholarship (2013), DAAD scholarship (2013).
 
