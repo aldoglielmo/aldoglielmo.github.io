@@ -14,7 +14,7 @@ A list of seminars and lectures given.
 
 <div class="publications">
 
-<h1 id="talks">talks</h1>
+<h1 id="invited talks">invited talks</h1>
 
 {% bibliography -f talks %}
 
