@@ -8,7 +8,7 @@ nav: true
 nav_order: 5
 ---
 
-A list of seminars and lectures given.
+A list of invited seminars and lectures given, broadly cathegorised in three groups: “AI/ML for Science”, “AI/ML” and “AI/ML for Econ”.
 
 {% include bib_search.liquid %}
 

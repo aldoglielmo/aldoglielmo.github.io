@@ -9,7 +9,7 @@ nav: true
 nav_order: 2
 ---
 
-A list of publications, broadly cathegorised in three groups: "ML/AI for Science", "ML/AI" and "ML/AI for Econ".
+A list of publications, broadly cathegorised in three groups: "AI/ML for Science", "AI/ML" and "AI/ML for Econ".
 An up-to-date list of publications is also available on my <a href='https://scholar.google.com/citations?user=ux0SMq4AAAAJ&hl=en'>Google Scholar page</a>.
 
 
