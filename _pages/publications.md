@@ -12,12 +12,6 @@ nav_order: 2
 A list of publications, broadly cathegorised in three groups: "AI/ML for Science", "AI/ML" and "AI/ML for Econ".
 An up-to-date list of publications is also available on my <a href='https://scholar.google.com/citations?user=ux0SMq4AAAAJ&hl=en'>Google Scholar page</a>.
 
-<a href="/assets/pdf/mega-ai.pdf"
-   class="btn btn-sm z-depth-0 btn-outline-primary"
-   role="button" target="_blank" rel="noopener">
-  PDF
-</a>
-
 <!-- 
 NEED DO FIGURE OUT HOW TO INTRODUCE BADGES HERE !!!
 AAA 
