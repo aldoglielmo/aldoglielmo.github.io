@@ -1,0 +1,12 @@
+/* ===== Topic badge ===== */
+.topic-badge {
+  display: inline-block;       /* keeps it on the same line as text */
+  padding: 0.6rem 1.9rem;      /* space around the words            */
+  background-color: #c6533d;   /* ← colour taken from your screenshot */
+  color: #000;                 /* black text                         */
+  font-weight: 700;            /* bold                               */
+  border-radius: 0.75rem;      /* nicely rounded corners             */
+  line-height: 1.1;            /* vertical centring of text          */
+}
+
+

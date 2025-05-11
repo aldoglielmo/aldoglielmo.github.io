@@ -12,6 +12,11 @@ nav_order: 2
 A list of publications, broadly cathegorised in three groups: "AI/ML for Science", "AI/ML" and "AI/ML for Econ".
 An up-to-date list of publications is also available on my <a href='https://scholar.google.com/citations?user=ux0SMq4AAAAJ&hl=en'>Google Scholar page</a>.
 
+
+<span class="topic-badge">AI/ML for Econ</span>
+
+<span class="badge rounded-pill fs-18 topic-badge">AI/ML for Econ</span>
+
 <!-- 
 NEED DO FIGURE OUT HOW TO INTRODUCE BADGES HERE !!!
 AAA 
