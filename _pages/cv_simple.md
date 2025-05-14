@@ -56,9 +56,16 @@ nav_order: 6
 **Master students** Charles Camboulin (2024), Simone Brusatin (2023), Valeria Insogna (2024), Alessandra Panone (2023), Carlo Maino (2018), Elis Sokolowsk (2018), Cas van Der Oord (2017). -->
 
 
-### peer review
+### peer reviews
 
 **AI conferences** - NeurIPS, ICLR, ICML, AISTATS, others.
 
 **physics journals** - PRL, PRX, PRB, PRE, Journ. of Comp. Phys., Springer Lecture Notes in Physics, others.
+
+### organising/program committees
+
+- Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics - (ECONDAT, 2024) [[website](https://www.bancaditalia.it/media/agenda/2024-11-13_nontraditional-data-machine-learning-and-natural-language-processing-in-macroeconomics-econdat-2024-fall-meeting/)]
+- AI for Financial Institution at AAAI (FinST, 2023) [[website](https://aaai23.bankit.art/)]
+- Young Researcher’s Workshop on Machine Learning for Materials Science (MLMS, 2019) [[website](http://ml4ms2019.aalto.fi/organisers/)]
+- Workshop on Localisation in Quantum Systems (WoLQS, 2017) [[website](https://caneslocalisation.github.io/about/)]
 
