@@ -62,6 +62,8 @@ nav_order: 6
 
 **physics journals** - PRL, PRX, PRB, PRE, Journ. of Comp. Phys., Springer Lecture Notes in Physics, others.
 
+---
+
 ### organising/program committees
 
 - Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics - (ECONDAT, 2024) [[website](https://www.bancaditalia.it/media/agenda/2024-11-13_nontraditional-data-machine-learning-and-natural-language-processing-in-macroeconomics-econdat-2024-fall-meeting/)]
