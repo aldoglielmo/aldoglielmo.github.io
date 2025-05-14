@@ -80,8 +80,11 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
+# veriication 1: uiz9xOsHt6IaKNhvw970Ulg2BAZkIkd1w5lXMnjeFqc
+# veriication 2: J7juCTpEbLD5F3LJeLX3gyULstUrmhBqdzMwBu3QFgc
+
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: uiz9xOsHt6IaKNhvw970Ulg2BAZkIkd1w5lXMnjeFqc # your google-site-verification ID (Google Search Console)
+google_site_verification: J7juCTpEbLD5F3LJeLX3gyULstUrmhBqdzMwBu3QFgc # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------

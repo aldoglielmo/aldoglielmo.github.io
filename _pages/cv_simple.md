@@ -37,14 +37,14 @@ nav_order: 6
 ---
 
 ### recognitions and prizes
-
-- "[Agent based modelling at central banks](https://www.bankofengland.co.uk/working-paper/2025/agent-based-modeling-at-central-banks-recent-developments-and-new-challenges)" is featured on the [front page](https://web.archive.org/web/20250328125306/https://www.centralbanking.com/) of the Central Banking magazine (2025).
- - "[Robust Policy Design in Agent-Based Simulators using Adversarial Reinforcement Learning](https://openreview.net/pdf?id=vPzij1AYf2)" wins the best paper award of [Multi-Agent AI in the Real World](https://sites.google.com/view/marw-ai-agents/organizers?authuser=0) (2025)
-- "[DADApy](https://github.com/sissa-data-science/DADApy)" is included in a "best-of" list as the [best unsupervised learning package](https://github.com/JuDFTteam/best-of-atomistic-machine-learning?tab=readme-ov-file#unsupervised-learning) for use in physics (2023).
+- [_Chat Bankman-Fried? An Exploration of LLM Alignment in Finance_](https://www.bancaditalia.it/media/notizia/chat-bankman-fried-an-exploration-of-llm-alignment-in-finance/)" is featured on the front page of the _Sole 24 Ore_ magazine (2025)
+- [_Agent based modelling at central banks_](https://www.bankofengland.co.uk/working-paper/2025/agent-based-modeling-at-central-banks-recent-developments-and-new-challenges) is featured on the front page of the _Central Banking_ magazine (2025) [[website](https://web.archive.org/web/20250328125306/https://www.centralbanking.com/)]
+ - [_Robust Policy Design in Agent-Based Simulators using Adversarial Reinforcement Learning_](https://openreview.net/pdf?id=vPzij1AYf2)" wins the best paper award of Multi-Agent AI in the Real World (2025) [[website](https://sites.google.com/view/marw-ai-agents/organizers?authuser=0)]
+- [_DADApy_](https://github.com/sissa-data-science/DADApy) is included in a "best-of" list as the best unsupervised learning package for use in physics (2023) [[website](https://github.com/JuDFTteam/best-of-atomistic-machine-learning?tab=readme-ov-file#unsupervised-learning)]
  - Elsevier outstanding PhD thesis prize (2020)
- - [Italy made me award](https://www.giornalediplomatico.it/Ambasciata-a-Londra-5A-Premio-aItaly-Made-Mea-a-sei-scienziati-italiani-per-le-loro-ricerche.htm) (2019)
- - [IoP PhD thesis prize](https://www.iop.org/physics-community/special-interest-groups/computational-physics-group/phd-thesis-prize) (2019)
- - [PRB Editors’ Suggestion](https://journals.aps.org/prb/edannounce/PhysRevB.77.130001) (2018).
+ - Italy made me award (2019) [[website](https://www.giornalediplomatico.it/Ambasciata-a-Londra-5A-Premio-aItaly-Made-Mea-a-sei-scienziati-italiani-per-le-loro-ricerche.htm)]
+ - IoP PhD thesis prize (2019) [[website](https://www.iop.org/physics-community/special-interest-groups/computational-physics-group/phd-thesis-prize)]
+ - PRB Editors’ Suggestion (2018) [[website](https://journals.aps.org/prb/edannounce/PhysRevB.77.130001)].
 - _student prizes_: Runner up for TYC best talk (2018), CNR scholarship (2016), Nelkon prize (2014), Wheatstone prize (2014), Nikon prize (2014), Gordon Rogers scholarship (2013), DAAD scholarship (2013).
 
 ---
