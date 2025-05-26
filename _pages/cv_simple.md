@@ -37,6 +37,7 @@ nav_order: 6
 ---
 
 ### recognitions and prizes
+- Member of the ELLIS Society (2025) [[website](https://ellis.eu/members)]
 - _[Chat Bankman-Fried? An Exploration of LLM Alignment in Finance](https://www.bancaditalia.it/media/notizia/chat-bankman-fried-an-exploration-of-llm-alignment-in-finance/)_ is featured on the front page of the _Sole 24 Ore_ magazine (2025)
 - _[Agent based modelling at central banks](https://www.bankofengland.co.uk/working-paper/2025/agent-based-modeling-at-central-banks-recent-developments-and-new-challenges)_ is featured on the front page of the _Central Banking_ magazine (2025) [[website](https://web.archive.org/web/20250328125306/https://www.centralbanking.com/)]
  - [Robust Policy Design in Agent-Based Simulators using Adversarial Reinforcement Learning](https://openreview.net/pdf?id=vPzij1AYf2)_ wins the best paper award of Multi-Agent AI in the Real World (2025) [[website](https://sites.google.com/view/marw-ai-agents/organizers?authuser=0)]
