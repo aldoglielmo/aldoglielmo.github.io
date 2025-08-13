@@ -59,9 +59,9 @@ nav_order: 6
 
 ### peer reviews
 
-**AI conferences** - NeurIPS, ICLR, ICML, AISTATS, others
+**AI conferences** - NeurIPS, ICLR, ICML, AISTATS, ICAIF, others
 
-**physics journals** - PRL, PRX, PRB, PRE, Journ. of Comp. Phys., Springer Lecture Notes in Physics, others
+**physics and interdisciplinary journals** - PRL, PRX, PRB, PRE, J. Comput. Phys., Springer Lecture Notes in Physics, Development Engineering, PLOS One, others
 
 ---
 
