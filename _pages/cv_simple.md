@@ -12,13 +12,15 @@ nav_order: 6
 
 *Oct 2021-present* - **Bank of Italy**, Applied Research Team of the IT Directorate, research scientist
 
+*Aug 2025* - **Santa Fe Institute**, Gurley Forum @ Miller Campus, visiting scientist
+
 *Sep 2019-Sep 2021* - **International School for Advanced Studies (SISSA)**, Data Science and Statistical Biophysics groups, postdoctoral researcher
 
 *Feb 2020* - **Harvard University**, Materials Intelligence Laboratory, visiting scientist
 
-*Feb 2019-July 2019* – **King’s College London**, Physics department, postdoctoral researcher
+*Feb 2019-July 2019* – **King’s College London**, Physics Department, postdoctoral researcher
 
-*Oct 2015-Jan 2019* - **King’s College London**, Physics and Mathematics departments, PhD student
+*Oct 2015-Jan 2019* - **King’s College London**, Physics and Mathematics Departments, PhD student
 
 *Dec 2018* - **The Alan Turing Institute**, hackathon participant
 
