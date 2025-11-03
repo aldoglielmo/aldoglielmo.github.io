@@ -65,12 +65,14 @@ nav_order: 6
 
 **physics and interdisciplinary journals** - PRL, PRX, PRB, PRE, J. Comput. Phys., Springer Lecture Notes in Physics, Development Engineering, PLOS One, others
 
+**funding bodies** - Keynes Fund
+
 ---
 
 ### organising/program committees
-
-- Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics - (ECONDAT, 2024) [[website](https://www.bancaditalia.it/media/agenda/2024-11-13_nontraditional-data-machine-learning-and-natural-language-processing-in-macroeconomics-econdat-2024-fall-meeting/)]
-- AI for Financial Institution at AAAI (FinST, 2023) [[website](https://aaai23.bankit.art/)]
-- Young Researcher’s Workshop on Machine Learning for Materials Science (MLMS, 2019) [[website](http://ml4ms2019.aalto.fi/organisers/)]
+- International Joint Workshop on Explainable AI in Finance: Achieving Trustworthy Financial Decision-Making, at ICAIF (XAI-FIN, 2025) [[website](https://sites.google.com/view/2025-workshop-explainable-ai/organisation)]
+- Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics (ECONDAT, 2024) [[website](https://www.bancaditalia.it/media/agenda/2024-11-13_nontraditional-data-machine-learning-and-natural-language-processing-in-macroeconomics-econdat-2024-fall-meeting/)]
+- AI for Financial Institution, at AAAI (FinST, 2023) [[website](https://aaai23.bankit.art/)]
+- Young Researcher's Workshop on Machine Learning for Materials Science (MLMS, 2019) [[website](http://ml4ms2019.aalto.fi/organisers/)]
 - Workshop on Localisation in Quantum Systems (WoLQS, 2017) [[website](https://caneslocalisation.github.io/about/)]
 
