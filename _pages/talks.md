@@ -22,8 +22,19 @@ A list of invited seminars and lectures given, broadly cathegorised in three gro
 
 <div class="publications">
 
+<h1 id="selected contributed talks">selected contributed talks</h1>
+
+{% bibliography -f talks_contributed %}
+
+</div>
+
+
+{% comment %}
+<div class="publications">
+
 <h1 id="lectures">lectures</h1>
 
 {% bibliography -f lectures %}
 
 </div>
+{% endcomment %}
