@@ -39,6 +39,7 @@ nav_order: 6
 ---
 
 ### recognitions and prizes
+- Participant in the UK-Italy Young Leaders' Programme (2026) [[website](https://amblondra.esteri.it/en/italia-e-regno-unito/diplomazia-culturale/young-leaders-programme/)]
 - Member of the ELLIS Society (2025) [[website](https://ellis.eu/members)]
 - _[Chat Bankman-Fried? An Exploration of LLM Alignment in Finance](https://www.bancaditalia.it/media/notizia/chat-bankman-fried-an-exploration-of-llm-alignment-in-finance/)_ is featured on the front page of the _Sole 24 Ore_ magazine (2025)
 - _[Agent based modelling at central banks](https://www.bankofengland.co.uk/working-paper/2025/agent-based-modeling-at-central-banks-recent-developments-and-new-challenges)_ is featured on the front page of the _Central Banking_ magazine (2025) [[website](https://web.archive.org/web/20250328125306/https://www.centralbanking.com/)]
