@@ -96,13 +96,6 @@ ninja.data = [{
           window.open("https://www.researchgate.net/profile/Aldo-Glielmo/", "_blank");
         },
       },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/AldoGlielmo", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
