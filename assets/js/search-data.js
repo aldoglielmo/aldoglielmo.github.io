@@ -79,7 +79,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/aldo-glielmo-a1999764", "_blank");
+          window.open("https://www.linkedin.com/in/aldoglielmo", "_blank");
         },
       },{
         id: 'social-orcid',
